@@ -7,6 +7,7 @@ Main Features:
 -  **Data Management**: Stores each chat message as a JSON object in a database, capturing details such as date/time, unique key, and associated user information.
 -  **UI/UX Enhancements**: Employs CSS and Spring for styling and animations, enhancing the visual appeal and user-friendliness of the website.
 
+
 Ongoing Development:
 - AI-Integrated Scheduling: Implemented an AI-driven feature to facilitate scheduling tasks associated with the calendar, allowing users to effortlessly add events via text messages.
 - Calendar Sharing and Integration: Developed a functionality enabling users to invite friends/families and  share their calendars, enhancing social interaction and coordination.
