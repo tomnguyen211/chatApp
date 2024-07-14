@@ -9,9 +9,9 @@ Main Features:
 
 
 Ongoing Development:
-- AI-Integrated Scheduling: Implemented an AI-driven feature to facilitate scheduling tasks associated with the calendar, allowing users to effortlessly add events via text messages.
-- Calendar Sharing and Integration: Developed a functionality enabling users to invite friends/families and  share their calendars, enhancing social interaction and coordination.
-- Querry: Implement a function to find and query available times between calendars, leveraging AI technology to optimize scheduling.
+- **AI-Integrated Scheduling**: Implemented an AI-driven feature to facilitate scheduling tasks associated with the calendar, allowing users to effortlessly add events via text messages.
+- **Calendar Sharing and Integration**: Developed a functionality enabling users to invite friends/families and  share their calendars, enhancing social interaction and coordination.
+- **Querry**: Implement a function to find and query available times between calendars, leveraging AI technology to optimize scheduling.
   
 Tools/Languages: Visual Studio, React, Firebase, Spring, HTML, Github, CSS 
 # Link
